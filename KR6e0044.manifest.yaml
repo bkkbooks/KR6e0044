@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0044_000.yaml, hash: 'sha256:6fe34995d48c91b8ce8aba8c91f3d3a39ee30c7b4fa30427240c26f7be301cd0'}
-  - {seq: 1, filename: KR6e0044_001.yaml, hash: 'sha256:548c34b7b3ccd13212608c293bd3fc2de0022e96d183b1b64e3b5bb1d09f7547'}
+  - {seq: 1, filename: KR6e0044_001.yaml, hash: 'sha256:5dcc5b7aa9da2ee340b0b68625847dbc265fb6ffb6a1dcaafc9a9b7c8f27b5cf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0044_001.markers.yaml, hash: 'sha256:7e46d3e220829d379f061b190539d12e47feec68d50eb34882f273d954319b52'}
+  - {seq: 0, role: markers, filename: assets/KR6e0044_000.markers.yaml, hash: 'sha256:61166100ee491c89a0e79a7910d73e8d0c002cc49979da1d3ec9602efdbf7445'}
+  - {seq: 1, role: markers, filename: assets/KR6e0044_001.markers.yaml, hash: 'sha256:ce38ce5cffba8310261319d43875a9d1e32d43375dc7133c38cfbb1b80d86051'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 大方廣佛華嚴經入法界品
   type: juan
   level: 1
-hash: sha256:e3f80930021bf8578d8205251541e466e6719e6f0a6b03feb672bfa44f4949d2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:17443b6ee185e54515d3638deb9f837fedfa9aa67ca2ec8c07dc3e184d86731d
