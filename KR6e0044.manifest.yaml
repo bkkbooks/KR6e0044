@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6e0044_000.yaml, hash: 'sha256:6fe34995d48c91b8ce8aba8c91f3d3a39ee30c7b4fa30427240c26f7be301cd0'}
   - {seq: 1, filename: KR6e0044_001.yaml, hash: 'sha256:29d63f3c419c9bc43e45948691b201f7e17cb2dd99f6a70849ea87da6b657c3b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0044_000.markers.yaml, hash: 'sha256:61166100ee491c89a0e79a7910d73e8d0c002cc49979da1d3ec9602efdbf7445'}
+  - {seq: 0, role: markers, filename: assets/KR6e0044_000.markers.yaml, hash: 'sha256:fb13a2ee77044f2d3c3123811f8020434883cd6cc5d8bdd328e9b2cecc6ed65d'}
   - {seq: 1, role: markers, filename: assets/KR6e0044_001.markers.yaml, hash: 'sha256:d9dc1481f3df1a2f5dc41ccc1db2834ee9f72029089f15a22437f724c009b9e3'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 大方廣佛華嚴經入法界品
   type: juan
   level: 1
-hash: sha256:adb8c5f1054b67eb43b17aa572c0161a3b506371504a351b56a12131caf3902d
+hash: sha256:15238520ce57ca9260d3d172447a9c0a0ff5b831b6e99271f871ad4041df9d9f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
